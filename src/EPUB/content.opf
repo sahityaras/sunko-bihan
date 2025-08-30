@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2025-08-30T20:57:05Z</meta>
+    <meta name="generator" content="Ebook-lib 0.19.0"/>
+    <dc:identifier id="id">20250830205705</dc:identifier>
+    <dc:title>सुनको बिहान</dc:title>
+    <dc:language>ne</dc:language>
+    <dc:creator id="creator">लक्ष्मीप्रसाद देवकोटा</dc:creator>
+    <dc:date>2025-08-30T20:57:05Z</dc:date>
+    <dc:publisher>Sahityaras</dc:publisher>
+    <source_publisher>साझा प्रकाशन</source_publisher>
+    <source_edition>छैटौँ</source_edition>
+    <source_year>२०६४</source_year>
+    <source_isbn>978-99933-2-571-0</source_isbn>
+    <book_about>महाकविको प्रतिभाले छोएपछि धूलो पनि फूल बन्दछ भन्ने कुरा यस पुस्तकको ११ औं कविताले बोल्छ ।&#13;
+उहाँले 'किताब चरो' को सैर गराएर, 'फूल परी' सँग नचाएर, 'पल्टन' सँग कवाज खेलाएर मात्र होइन, मुसाको र मास्टरजीहरूको कथा सुनाएर पनि बालकहरुलाई रद्द पारिदिनुभएको छ । त्यति मात्र पनि होइन, उहाँले अरू पाका हृदयलाई पनि यसमा रस लिन सक्ने गरिदिनुभएको छ । ...&#13;
+"प्रतिभाबाट छहरा छुटे हृदय नछोला ?" भनेर महाकविले भन्नुभएको थियो। त्यसको सत्यता उहाँकै 'सुनको बिहान' ले प्रमाणित गरेको छ भन्नु अत्युक्ति नहोला।&#13;
+–कमलमणि दीक्षित</book_about>
+    <book_genre>कवितासङ्ग्रह, बाल कवितासङ्ग्रह</book_genre>
+    <book_slug>sunko-bihan</book_slug>
+    <meta name="cover" content="cover-img"></meta>
+  </metadata>
+  <manifest>
+    <item href="../styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+    <item href="fonts/BhotoSerifDevanagari-VF.ttf" id="static_1" media-type="application/font-sfnt"/>
+    <item href="text/titlepage.xhtml" id="chapter_1" media-type="application/xhtml+xml"/>
+    <item href="images/saras_logo.png" id="static_2" media-type="image/png"/>
+    <item href="text/copyrightpage.xhtml" id="chapter_2" media-type="application/xhtml+xml"/>
+    <item href="text/tocpage.xhtml" id="chapter_3" media-type="application/xhtml+xml"/>
+    <item href="text/sunko-bihan.xhtml" id="chapter_4" media-type="application/xhtml+xml"/>
+    <item href="text/pap-lagcha.xhtml" id="chapter_5" media-type="application/xhtml+xml"/>
+    <item href="text/paisa.xhtml" id="chapter_6" media-type="application/xhtml+xml"/>
+    <item href="text/sinha-ra-musa.xhtml" id="chapter_7" media-type="application/xhtml+xml"/>
+    <item href="text/barsa.xhtml" id="chapter_8" media-type="application/xhtml+xml"/>
+    <item href="text/masterji.xhtml" id="chapter_9" media-type="application/xhtml+xml"/>
+    <item href="text/paltan.xhtml" id="chapter_10" media-type="application/xhtml+xml"/>
+    <item href="text/saundarya-upasana.xhtml" id="chapter_11" media-type="application/xhtml+xml"/>
+    <item href="text/ful-pari.xhtml" id="chapter_12" media-type="application/xhtml+xml"/>
+    <item href="text/kitab-charo.xhtml" id="chapter_13" media-type="application/xhtml+xml"/>
+    <item href="text/dhulo.xhtml" id="chapter_14" media-type="application/xhtml+xml"/>
+    <item href="text/nepali-salai-batta.xhtml" id="chapter_15" media-type="application/xhtml+xml"/>
+    <item href="text/kuhu-kuhu.xhtml" id="chapter_16" media-type="application/xhtml+xml"/>
+    <item href="text/tasbir.xhtml" id="chapter_17" media-type="application/xhtml+xml"/>
+    <item href="text/haisa-budiko-mukh.xhtml" id="chapter_18" media-type="application/xhtml+xml"/>
+    <item href="text/gau-dine-katha.xhtml" id="chapter_19" media-type="application/xhtml+xml"/>
+    <item href="text/prithvi-bhukundo.xhtml" id="chapter_20" media-type="application/xhtml+xml"/>
+    <item href="text/juni.xhtml" id="chapter_21" media-type="application/xhtml+xml"/>
+    <item href="text/jhagghar.xhtml" id="chapter_22" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_4"/>
+    <itemref idref="chapter_5"/>
+    <itemref idref="chapter_6"/>
+    <itemref idref="chapter_7"/>
+    <itemref idref="chapter_8"/>
+    <itemref idref="chapter_9"/>
+    <itemref idref="chapter_10"/>
+    <itemref idref="chapter_11"/>
+    <itemref idref="chapter_12"/>
+    <itemref idref="chapter_13"/>
+    <itemref idref="chapter_14"/>
+    <itemref idref="chapter_15"/>
+    <itemref idref="chapter_16"/>
+    <itemref idref="chapter_17"/>
+    <itemref idref="chapter_18"/>
+    <itemref idref="chapter_19"/>
+    <itemref idref="chapter_20"/>
+    <itemref idref="chapter_21"/>
+    <itemref idref="chapter_22"/>
+  </spine>
+</package>
